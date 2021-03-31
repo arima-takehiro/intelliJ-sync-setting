@@ -1,6 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myOverrideIdeShortcuts" value="false" />
-    <option name="myTabName" value="Local" />
+    <option name="myShellPath" value="/usr/local/bin/fish" />
+    <option name="myTabName" value="py-term" />
   </component>
 </application>
