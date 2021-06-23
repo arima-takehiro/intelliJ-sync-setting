@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="error_template" type="AUTO_DETECTED" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping ext="gs" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="pickle" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
